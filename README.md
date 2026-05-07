@@ -11,7 +11,7 @@ cd /fusion/projects/codes/solps/SOLPS-ITER/public_code/solps-iter_3.0.10_apr2026
 source setup.csh
 ```
 ## SOLPS-ITER v.3.2.1 - Wide Grid
-1. Load the public v.3.0.10 distribution on Omega
+1. Load the public v.3.2.1 distribution on Omega
 ```tcsh
 tcsh
 cd /fusion/projects/codes/solps/SOLPS-ITER/public_code/solps-iter_wg-release_apr2026
